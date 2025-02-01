@@ -1,0 +1,34 @@
+Framework for the creation and automatisation of tasks in open-source software development
+
+Contents
+  > goals
+  > syllabus / training class program
+  > support material
+  > final render
+  > Acknowledgments
+
+The development of open-source softwares for numerical simulations is currently taking 
+a growingly greater importance in scientific research. It helps to validate numerical 
+methods, to develop new algorithms and allows almost anyone to take hold of these tools, 
+use them, and build on top of them. Publishing scientific codes, scripts and softwares is
+also an inherent part of open-science that goes beyond placing them on a webpage used as 
+an online archive.
+
+The logic and structure of a software stem from its forerunners, and both evolves over 
+time as contributions accumulate. That being said, in order to prevent a software's 
+architecture to crumble after any minute change, it is necessary to have a framework 
+set in place. Staging this setup can be a hindrance as well as a challenge.
+It all goes about easing contributors into these new work practices, and also about 
+reaching a middle-ground between a rigid development framework and giving free reins 
+to creativity.
+
+Over the course of a framework's creation, many tasks are repetitive and might lead 
+to errors or even rollbacks in the software development. We can mention here unitary 
+tests, code formatting, errors revealed by static analysis, documentation generation, 
+as well as creating new releases and publishing them over package managers (pypi, conda, 
+vcpkg, spack, nix, guix, ...).
+
+This document stands as the content and core of a training class, aiming at considering 
+any and all actions that might facilitate the workload of different actors of software 
+development such simple users, but developpers and maintainers too.
+We shall make use 
