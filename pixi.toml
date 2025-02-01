@@ -1,0 +1,11 @@
+[project]
+authors = ["CFeller <clement.feller@obspm.fr>"]
+channels = ["conda-forge"]
+description = "Add a short description here"
+name = "splineart-doc"
+platforms = ["linux-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
