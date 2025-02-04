@@ -57,7 +57,7 @@ or at least limiting numbers of mistakes and human errors.
 #### [Support material](3)
 
 All the material required for the hands-on part of this training class is available
-on the associated GitHub repo: https://github.com/gouarin/dev_env_and_automatisation.  
+on the associated GitHub repo: https://github.com/gouarin/dev_env_and_automatisation.
 -
 For every part of the hands-on part, you will find a corresponding directory in the
 ''material'' folder. Should files be required to complete some exercises, they will
