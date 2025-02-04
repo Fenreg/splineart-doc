@@ -1,7 +1,7 @@
 # Framework for the creation and automatisation of tasks in open-source software development
 
 ### Contents
-  - [Goals](1)
+  - [Goals](#Goals)
   - [Training class program](1)
   - [Support material](3)
   - [Final result](4)
@@ -33,7 +33,7 @@ any and all actions that might facilitate the workload of different actors of so
 development such simple users, but developpers and maintainers too. We shall make use
 GitHub Actions to automatize some of these repetitive tasks.
 
-#### [Goals](1)
+#### [Goals](#Goals)
 - Improve and ensure the security of the development processes
 - Publish your works semi-automaticaly and share it with a larger crowd
 - Understand the workings of GitHub Actions
