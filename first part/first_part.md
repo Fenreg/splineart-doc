@@ -1,11 +1,11 @@
 # Framework for the creation and automatisation of tasks in open-source software development
 
 ### Contents
-  - [Goals](#Goals)
-  - [Training class program](#Training_class_program)
-  - [Support material](#Support_material)
-  - [Final result](#Final_result)
-  - [Acknowledgments](#Acknowledgments)
+  - [Goals](#goals)
+  - [Training class program](#training-class-program)
+  - [Support material](#support-material)
+  - [Final result](#final-result)
+  - [Acknowledgments](#acknowledgments)
 
 The development of open-source softwares for numerical simulations is currently taking
 a growingly greater importance in scientific research. It helps to validate numerical
@@ -33,13 +33,13 @@ any and all actions that might facilitate the workload of different actors of so
 development such simple users, but developpers and maintainers too. We shall make use
 GitHub Actions to automatize some of these repetitive tasks.
 
-#### [Goals](#Goals)
+#### [Goals](#goals)
 - Improve and ensure the security of the development processes
 - Publish your works semi-automaticaly and share it with a larger crowd
 - Understand the workings of GitHub Actions
 - Acquire a degree of personal autonomy in the setting up of (GitHub) workflows
 
-#### [Training class program](#Training_class_program)
+#### [Training class program](#training-class-program)
 This document is divided in two parts:
 - An overview that attempts to describe the differents steps and processes, permitting
 an open-source software to reach a degree of maturity, quality-wise. Setting up a
@@ -54,7 +54,7 @@ the first half, and implement tools for continuous integration in the context pf
 GitHub Actions. We shall see to automatically setup a development framework avoiding,
 or at least limiting numbers of mistakes and human errors.
 
-#### [Support material](#Support_material)
+#### [Support material](#support-material)
 
 All the material required for the hands-on part of this training class is available
 on the associated GitHub repo: https://github.com/gouarin/dev_env_and_automatisation.
@@ -64,7 +64,7 @@ For every part of the hands-on part, you will find a corresponding directory in 
 be found in the directory corresponding to the exercise, in a ''required_files''
 folder.
 
-#### [Final result](#Final_result)
+#### [Final result](#final-result)
 Should you be curious about the final result of this training class, of the scripts
 and development workflows developped, you can already check the splineart-cpp project
 by clicking on the image below.
@@ -72,6 +72,6 @@ by clicking on the image below.
 If you like the contents of this document, don't hesitate to star the GitHub
 repository.
 
-#### [Acknowledgments](#Acknowlegments)
-A great many thanks to [Matthieu Haefele]{https://github.com/mathaefele} for his
+#### [Acknowledgments](#acknowlegments)
+A great many thanks to [Matthieu Haefele](https://github.com/mathaefele) for his
 careful proofing and being the first to try-out the contents of this training class.
