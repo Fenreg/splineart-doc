@@ -2,10 +2,10 @@
 
 ### Contents
   - [Goals](#Goals)
-  - [Training class program](1)
-  - [Support material](3)
-  - [Final result](4)
-  - [Acknowledgments](5)
+  - [Training class program](#Training_class_program)
+  - [Support material](#Support_material)
+  - [Final result](#Final_result)
+  - [Acknowledgments](#Acknowledgments)
 
 The development of open-source softwares for numerical simulations is currently taking
 a growingly greater importance in scientific research. It helps to validate numerical
@@ -39,7 +39,7 @@ GitHub Actions to automatize some of these repetitive tasks.
 - Understand the workings of GitHub Actions
 - Acquire a degree of personal autonomy in the setting up of (GitHub) workflows
 
-#### [Training class program](2)
+#### [Training class program](#Training_class_program)
 This document is divided in two parts:
 - An overview that attempts to describe the differents steps and processes, permitting
 an open-source software to reach a degree of maturity, quality-wise. Setting up a
@@ -54,7 +54,7 @@ the first half, and implement tools for continuous integration in the context pf
 GitHub Actions. We shall see to automatically setup a development framework avoiding,
 or at least limiting numbers of mistakes and human errors.
 
-#### [Support material](3)
+#### [Support material](#Support_material)
 
 All the material required for the hands-on part of this training class is available
 on the associated GitHub repo: https://github.com/gouarin/dev_env_and_automatisation.
@@ -64,7 +64,7 @@ For every part of the hands-on part, you will find a corresponding directory in 
 be found in the directory corresponding to the exercise, in a ''required_files''
 folder.
 
-#### [Final result](4)
+#### [Final result](#Final_result)
 Should you be curious about the final result of this training class, of the scripts
 and development workflows developped, you can already check the splineart-cpp project
 by clicking on the image below.
@@ -72,6 +72,6 @@ by clicking on the image below.
 If you like the contents of this document, don't hesitate to star the GitHub
 repository.
 
-#### [Acknowledgments](5)
+#### [Acknowledgments](#Acknowlegments)
 A great many thanks to [Matthieu Haefele]{https://github.com/mathaefele} for his
 careful proofing and being the first to try-out the contents of this training class.
