@@ -68,8 +68,8 @@ folder.
 Should you be curious about the final result of this training class, of the scripts
 and development workflows developped, you can already check the splineart-cpp project
 by clicking on the image below.
-![Alt text](https://github.com/gouarin/splinart-cpp/ "github.com/gouarin/splineart-cpp")
-
+![Alt text](https://github.com/gouarin/splinart-cpp/raw/main/doc/source/logo/dark_logo.png "github.com/gouarin/splineart-cpp")
+>>TODO: link not working in the way intended <<
 If you like the contents of this document, don't hesitate to star the GitHub
 repository.
 
