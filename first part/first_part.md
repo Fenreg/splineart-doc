@@ -1,11 +1,11 @@
 # Framework for the creation and automatisation of tasks in open-source software development
 
 ### Contents
-  - [Goals][1]
-  - [Training class program][2]
-  - [Support material][3]
-  - [Final result][4]
-  - [Acknowledgments][5]
+  - [Goals](1)
+  - [Training class program](1)
+  - [Support material](3)
+  - [Final result](4)
+  - [Acknowledgments](5)
 
 The development of open-source softwares for numerical simulations is currently taking
 a growingly greater importance in scientific research. It helps to validate numerical
