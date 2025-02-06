@@ -76,3 +76,5 @@ repository.
 #### [Acknowledgments](#acknowlegments)
 A great many thanks to [Matthieu Haefele](https://github.com/mathaefele) for his
 careful proofing and being the first to try-out the contents of this training class.
+
+[Development framework](/part-2/part-2.md)
